@@ -1,3 +1,4 @@
+<video src="<video src="Crisp_AI_Driving_Demo.mp4" width="100%" controls autoplay loop muted></video>" width="100%" controls autoplay loop muted></video>
 # End-to-End Autonomous Driving Loop via Behavioral Cloning
 
 A real-time, closed-loop Cyber-Physical System (CPS) that deploys a deep convolutional neural network based on the **NVIDIA Autonomous Car architecture** to pilot a vehicle within a Unity-based simulator. The pipeline bridges a native **PyTorch** inference engine with the simulation environment via a low-latency, full-duplex **Socket.io** telemetry server.
