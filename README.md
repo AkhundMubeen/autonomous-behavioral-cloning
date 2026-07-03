@@ -1,6 +1,4 @@
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2cda84b8-adef-4a5f-92b9-4d93f9a49b40" width="100%" style="width: 100%; max-width: 100%; object-fit: fill; display: block;" controls autoplay loop muted></video>
-</p>
+![](https://github.com/user-attachments/assets/2cda84b8-adef-4a5f-92b9-4d93f9a49b40)
 
 # End-to-End Autonomous Driving Loop via Behavioral Cloning
 
