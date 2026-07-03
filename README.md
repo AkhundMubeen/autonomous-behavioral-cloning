@@ -1,4 +1,5 @@
-<video src="Output_Result_Car_Video.mp4" width="100%" controls autoplay loop muted></video>
+https://github.com/user-attachments/assets/2cda84b8-adef-4a5f-92b9-4d93f9a49b40
+
 # End-to-End Autonomous Driving Loop via Behavioral Cloning
 
 A real-time, closed-loop Cyber-Physical System (CPS) that deploys a deep convolutional neural network based on the **NVIDIA Autonomous Car architecture** to pilot a vehicle within a Unity-based simulator. The pipeline bridges a native **PyTorch** inference engine with the simulation environment via a low-latency, full-duplex **Socket.io** telemetry server.
